@@ -21,6 +21,13 @@
       "identifier" : "flickr"
     },
     {
+      "script" : "Images/KhPhotoApi.js",
+      "handler" : "onRun",
+      "shortcut" : "",
+      "name" : "KitchHike",
+      "identifier" : "kitchhike"
+    },
+    {
       "script" : "Persona/Photos/Female.js",
       "handler" : "onRun",
       "shortcut" : "",
@@ -264,7 +271,7 @@
       {
         "title": "Images",
         "items": [
-          "custom-images", "flickr", "rad-faces"
+          "custom-images", "flickr", "kitchhike", "rad-faces"
         ]
       },
       {
