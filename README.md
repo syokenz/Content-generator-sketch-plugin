@@ -6,15 +6,15 @@ Content generator allows you quickly create dummy data such as avatars, names, g
 ## Demo
 #####Generating pictures
 
-![Generating thumbnails](https://raw.githubusercontent.com/timuric/Content-generator-for-sketch-app/master/tutorial/userpics.gif)
+![Generating thumbnails](https://raw.githubusercontent.com/syokenz/Content-generator-for-sketch-app/master/tutorial/userpics.gif)
 
 #####Generating names
 
-![Generating names](https://raw.githubusercontent.com/timuric/Content-generator-for-sketch-app/master/tutorial/names.gif)
+![Generating names](https://raw.githubusercontent.com/syokenz/Content-generator-for-sketch-app/master/tutorial/names.gif)
 
 #####Generating dummy text
 
-![Generating text](https://raw.githubusercontent.com/timuric/Content-generator-for-sketch-app/master/tutorial/lorem.gif)
+![Generating text](https://raw.githubusercontent.com/syokenz/Content-generator-for-sketch-app/master/tutorial/lorem.gif)
 
 #####Generating strings
 ![custom string](https://cloud.githubusercontent.com/assets/5709624/8092928/c18d6d76-0fbd-11e5-962d-417165cc1a2d.gif)
@@ -34,7 +34,7 @@ In Sketch app use  `Plugins\Content Generator\Images\Custom` plugin to specify p
 
 
 ## Installation
-1. [Download Zip](https://github.com/timuric/Content-generator-sketch-plugin/archive/master.zip) and Extract it to a folder
+1. [Download Zip](https://github.com/syokenz/Content-generator-sketch-plugin/archive/master.zip) and Extract it to a folder
 2. In Sketch app `Plugins > Manage Plugins...`
 3. In the Preferences window, click on the cog-wheel icon, and select `Show Plugins Folder` from the dropdown.
 4. Place the extracted folder directly to the Plugins folder (nesting might not work atm)
@@ -49,9 +49,9 @@ Ping me on [twitter](http://twitter.com/timur_carpeev) or follow for updates.
 
 ## Bug reports
 1. Open Console app `Applications/Utilities/Console`
-2. Type Sketch In filter box [like so](https://raw.githubusercontent.com/timuric/Content-generator-sketch-plugin/master/tutorial/console.png)
+2. Type Sketch In filter box [like so](https://raw.githubusercontent.com/syokenz/Content-generator-sketch-plugin/master/tutorial/console.png)
 3. Run broken plugin
-4. Submit output of the Console app via [Github issues](https://github.com/timuric/Content-generator-sketch-plugin/issues) or [twitter](http://twitter.com/timur_carpeev) toghether with the version of your Sketch app
+4. Submit output of the Console app via [Github issues](https://github.com/syokenz/Content-generator-sketch-plugin/issues) or [twitter](http://twitter.com/timur_carpeev) toghether with the version of your Sketch app
 
 
 ## Contributors
@@ -59,7 +59,7 @@ Author [Timur Carpeev](https://twitter.com/timur_carpeev)
 
 Number plugins [Liu Liu](https://twitter.com/auxdesigner)
 
-And [others](https://github.com/timuric/Content-generator-sketch-plugin/graphs/contributors)
+And [others](https://github.com/syokenz/Content-generator-sketch-plugin/graphs/contributors)
 
 ## Credits
 * Photo collection [Unsplash](http://unsplash.com/)
