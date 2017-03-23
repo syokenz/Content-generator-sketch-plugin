@@ -6,15 +6,15 @@ Content generator allows you quickly create dummy data such as avatars, names, g
 ## Demo
 #####Generating pictures
 
-![Generating thumbnails](https://raw.githubusercontent.com/syokenz/Content-generator-for-sketch-app/master/tutorial/userpics.gif)
+![Generating thumbnails](https://raw.githubusercontent.com/timuric/Content-generator-for-sketch-app/master/tutorial/userpics.gif)
 
 #####Generating names
 
-![Generating names](https://raw.githubusercontent.com/syokenz/Content-generator-for-sketch-app/master/tutorial/names.gif)
+![Generating names](https://raw.githubusercontent.com/timuric/Content-generator-for-sketch-app/master/tutorial/names.gif)
 
 #####Generating dummy text
 
-![Generating text](https://raw.githubusercontent.com/syokenz/Content-generator-for-sketch-app/master/tutorial/lorem.gif)
+![Generating text](https://raw.githubusercontent.com/timuric/Content-generator-for-sketch-app/master/tutorial/lorem.gif)
 
 #####Generating strings
 ![custom string](https://cloud.githubusercontent.com/assets/5709624/8092928/c18d6d76-0fbd-11e5-962d-417165cc1a2d.gif)
@@ -59,7 +59,7 @@ Author [Timur Carpeev](https://twitter.com/timur_carpeev)
 
 Number plugins [Liu Liu](https://twitter.com/auxdesigner)
 
-And [others](https://github.com/syokenz/Content-generator-sketch-plugin/graphs/contributors)
+And [others](https://github.com/timuric/Content-generator-sketch-plugin/graphs/contributors)
 
 ## Credits
 * Photo collection [Unsplash](http://unsplash.com/)
