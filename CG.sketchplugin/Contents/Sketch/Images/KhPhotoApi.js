@@ -16,10 +16,9 @@ function onRun(context){
 		var select = [[NSComboBox alloc] initWithFrame:NSMakeRect(0,0,200,25)];
     var options = ["Pop-Up", "COOK", "HIKER", "Gallery"];
     var query_options = ["popup", "cook", "hiker", "gallery"];
-		select.i18nObjectValues = options;
-		select.setEditable(false);
-		select.addItemsWithObjectValues(options);
-		select.selectItemAtIndex(0);
+    select.setEditable(false);
+    select.addItemsWithObjectValues(options);
+    select.selectItemAtIndex(0);
     [alert setAccessoryView:select];
     var button = [alert runModal];
 
